@@ -1,0 +1,33 @@
+
+        #a
+        {
+            color:white;
+            background-color:
+            maroon;
+            text-align: center;
+        }
+        .b
+        {
+            color: black;
+            background-color: yellowgreen;
+            text-align: center;
+        }
+        /* box model*/
+        .c
+        {
+            padding:120px;
+            border-style: double;
+            border-color: rgb(37, 37, 194);
+            border-width: 12px;
+            margin-left: 100px;
+            border-radius: 120px;
+            text-align: center;
+            /* box shadow */
+            box-shadow: 20px 20px 30px black;
+            text-shadow:  black;
+            font-size: 40px;
+        }
+        body
+        {
+            background-color: purple;
+        }

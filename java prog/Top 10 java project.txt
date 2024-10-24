@@ -1,0 +1,14 @@
+simple java project for beginners for 2023.
+
+let's first look all project idea in the given below:-
+
+1.Bank management system 
+2.Tempreture converter
+3.Electiric billing system
+4.Super market billing system
+5.Digital clock
+6.Chatting application 
+7.word counter
+8.Brick breaking game
+9.Air line reservation system
+10.Student management system
